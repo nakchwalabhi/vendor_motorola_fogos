@@ -320,7 +320,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/fogos/proprietary/vendor/lib64/libBSTHDRDETECT.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libBSTHDRDETECT.so \
     vendor/motorola/fogos/proprietary/vendor/lib64/libBSTMultiExpoGainHDR.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libBSTMultiExpoGainHDR.so \
     vendor/motorola/fogos/proprietary/vendor/lib64/libBSTNodeUtils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libBSTNodeUtils.so \
-    vendor/motorola/fogos/proprietary/vendor/lib64/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libC2D2.so \
     vendor/motorola/fogos/proprietary/vendor/lib64/libacdbloader.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libacdbloader.so \
     vendor/motorola/fogos/proprietary/vendor/lib64/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiser.so \
     vendor/motorola/fogos/proprietary/vendor/lib64/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiserv2.so \
